@@ -1,0 +1,149 @@
+/*All other page css*/
+
+/*----------About--------*/
+
+.page-top-bar .d-flex{
+	justify-content: space-around;
+	padding: 50px;
+}
+
+
+.page-top-bar hr{
+	padding:0;
+	margin:0;
+	color: #fff;
+	border-top: 10px solid #fff;
+}
+
+#top-bar{
+	background-image: linear-gradient(rgba(3,3,3,0.9),rgba(3,3,203,0.9));
+	color:#fff;
+
+}
+
+.para{
+	margin: 50px;
+	font-size: 17px;
+	line-height: 30px;
+}
+
+.para hr{
+	
+}
+
+.para h3{
+	padding-bottom: 30px;
+	margin:0;
+}
+
+
+/*-------------Article---------*/
+
+.n-e-row{
+	margin:20px;
+	padding: 40px;
+}
+
+.date-box{
+	padding: 20px 0 20px 20px;
+	background-color: rgba(80,80,220,1);
+	width: 100px;
+	margin: 10px 0 10px 0px;
+	color: #fff;
+}
+
+.ne-link{
+	margin-left: 30px;
+}
+
+.n-e-row .d-flex{
+	align-items: center;
+}
+
+.date-box h3{
+	margin: 0;
+}
+
+.date-box h6{
+	margin: 0;
+}
+
+/*--------------gallery -----------*/
+
+
+.gallery{
+	margin: 20px;
+}
+
+.gallery div{
+	margin: 10px 0 10px 0;
+}
+
+.gallery img{
+	width: 30%;
+	
+} 
+
+.gallery .d-flex{
+	justify-content: space-around;
+}
+
+/*-------------contact page --------------*/
+
+.location{
+		width: 80%;
+		margin:auto;
+		padding: 80px 0;
+	}
+	
+	.location iframe{
+		width: 100%;
+	}
+	
+	.contact-us{
+		width: 75%;
+		margin: auto;
+		padding-bottom: 50px;
+		
+	}
+
+	
+	.contact-col div h5{
+		font-size: 20px;
+		margin-bottom: 5px;
+		color: #555;
+		font-weight: 400;
+	}
+	
+	.contact-col input, .contact-col textarea {
+		width: 100%;
+		padding: 15px;
+		margin-bottom: 17px;
+		outline: none; 
+		border: 1px solid #ccc;
+	}
+	
+	.contact-col h6{
+		color: #123;
+		font-size: 25px;
+		padding:0 0 10px 0;
+	}
+	
+	.hero-btn{
+		background-color: rgb(3,3,203);
+		color:#fff;
+		border: none;
+		padding:8px 20px 8px 20px;
+		border-radius: 50px;
+	}
+
+#contact-bar {
+	font-size: 20px;
+	font-weight: 500;
+	color: #333;
+	margin-top: 10px;
+}
+
+#contact-bar p{
+	padding-left: 10px;
+}

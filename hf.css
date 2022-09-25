@@ -1,0 +1,89 @@
+/*header & footer*/
+
+
+
+#logo-size{
+	width:50px;
+}
+
+#site-title{
+	padding-top: 7px;
+}
+
+#email{
+	padding: 10px 0 0 30px;
+	color: #777;
+}
+
+.size{
+	font-size:25px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.ancor-col{
+	padding-right: 20px;
+}
+
+ul.nav.ancor-col {
+    align-items: end;
+    justify-content: flex-end;
+}
+
+.ancor-col a{
+	color: #777;
+	
+}
+
+/*------Footer-----------*/
+
+.footer{
+	height: 40em;
+}
+
+#footer-div div{
+	padding-top: 50px;
+}
+
+#footer-div div a{
+	color: #fff;
+	text-decoration: none;
+}
+
+#footer-div div h2{
+	padding-left: 30px;
+	font-size: 25px;
+}
+
+.footer-about {
+	padding-left: 50px;
+}
+
+.footer-about img{
+	padding-bottom: 30px;
+}
+
+#social-icon .bi{
+	color: #555; 
+	font-size: 30px;
+	padding-left: 10px;
+}
+
+#contact-menu {
+	color: #fff;
+	margin-top: 100px;
+}
+
+#contact-menu p{
+	padding-left: 10px;
+}
+
+.copyright div{
+	margin: 15px;
+}
+#copyright-text p{
+	margin:0;
+	padding-top:5px;
+	font-size: 20px;
+	text-align: right;
+}
