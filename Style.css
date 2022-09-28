@@ -176,9 +176,10 @@ body{
 	margin-top: 20px;
 }
 
+
 #pre-corner{
 	margin: 20px 40px 20px 80px;
-	padding: 30px 0 20px 0;
+	padding: 30px 20px 20px 20px;
 	text-align: center;
 	background-color: #fff;
 	box-shadow: 0 0 20px #222;
@@ -197,6 +198,10 @@ body{
 .pc-row{
 	
 	padding: 50px 0 50px 0;
+}
+
+.pc-row .d-flex{
+	justify-content: space-around;
 }
 
 .time .bi{
@@ -251,6 +256,12 @@ body{
 	margin: 0;
 }
 
+#social-icon .bi:hover{
+	color: #fff;
+	cursor: pointer;
+	
+}
+
 
 
 
@@ -259,6 +270,10 @@ body{
 		padding:0;
 		margin:0;
 		
+	}
+	
+	body{
+		overflow-x:hidden;
 	}
 	
 	#site-title{
@@ -271,8 +286,96 @@ body{
 }
 	
 	.img-height{
-	height: 200px;
+	height: 300px;
 	padding: 20px;
 }
+
+	#home-ul{
+		display:none;
+	}
+	
+
+	.main-div1{
+	background-image: linear-gradient(rgba(10,10,10,0.7),rgba(20,20,20,0.7)), url(images/mount-101.jpg);
+	background-size: cover;
+	background-position: center;
+	min-height: 15rem;
+	
+}
+	
+	#main-About{
+	color: #bbb;
+	padding: 40px;
+	background-color: rgba(7,7,7,0.7);
+}
+	#mob-text{
+		display:none;
+	}
+	.arrow{
+		display:none;
+	}
+	
+	.learn-col{
+		margin: 30px 0 30px 0;
+	}
+	
+	
+	.l-m {
+		display:block!important;
+	}
+	
+	.p-c{
+		display:block!important;
+	}
+	
+	#n&e{
+		padding: 0 20px 0 20px; 
+	}
+	
+	#pre-corner{
+	margin: 40px 0 40px 0;
+	padding: 0;
+	text-align: center;
+	background-color: none;
+	box-shadow: none;
+	border-radius: none;
+
+}
+
+	.pc-row{
+	padding:20px 0 20px 20px;
+}
+
+#news{
+	margin-top: 30px;
+}
+
+#m-president{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background-color: none;
+	box-shadow: none;
+	border-radius: none;
+}
+
+#m-president img{
+	width: 10em;
+	padding: 10px 0 10px 0;
+}
+
+.n-e-row{
+	margin:20px;
+	padding:0;
+	display:block!important;
+	
+}
+
+.n-e-row h5{
+	font-size: 14px;
+}
+
+
+
 }
 
