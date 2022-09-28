@@ -260,14 +260,6 @@ main{
 	margin: 0;
 }
 
-#social-icon .bi:hover{
-	color: #fff;
-	cursor: pointer;
-	
-}
-
-
-
 
 @media (max-width:50em) {
 	*{
