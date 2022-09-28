@@ -54,6 +54,11 @@ ul.nav.ancor-col {
 		width:auto!important;
 	}
 	
+	#site-title {
+	font-size: 13px;
+	padding-top: 20px;	
+}
+	
 #email {
 		display:none!important;
 	}
