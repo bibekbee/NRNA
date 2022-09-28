@@ -71,6 +71,12 @@ ul.nav.ancor-col {
 
 /*------Footer-----------*/
 
+#social-icon .bi:hover{
+	color: #fff;
+	cursor: pointer;
+	
+}
+
 .footer{
 	height: 40em;
 }
